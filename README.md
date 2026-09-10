@@ -1,4 +1,4 @@
-README.md
+# Current Decks
 
-
-Some stuff goes in here
+## Commander 
+- [The Serpent Society] (./serpent-society/)
