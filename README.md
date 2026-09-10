@@ -1,4 +1,4 @@
 # Current Decks
 
 ## Commander 
-- [The Serpent Society] (./serpent-society/)
+- [The Serpent Society](./serpent-society/)
